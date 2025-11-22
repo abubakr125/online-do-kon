@@ -1,0 +1,10 @@
+<script>start("c:\\Users\\sensorika\\yakuniy\\vite-project\\src\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,0,"0 B",1763790020,"11/22/25, 10:40:20 AM");</script>
+<script>addRow("components","components",1,0,"0 B",1763790092,"11/22/25, 10:41:32 AM");</script>
+<script>addRow("context","context",1,0,"0 B",1763790081,"11/22/25, 10:41:21 AM");</script>
+<script>addRow("data","data",1,0,"0 B",1763790073,"11/22/25, 10:41:13 AM");</script>
+<script>addRow("App.css","App.css",0,7514,"7.3 kB",1763790190,"11/22/25, 10:43:10 AM");</script>
+<script>addRow("App.jsx","App.jsx",0,1134,"1.1 kB",1763790190,"11/22/25, 10:43:10 AM");</script>
+<script>addRow("index.css","index.css",0,489,"489 B",1763790190,"11/22/25, 10:43:10 AM");</script>
+<script>addRow("main.jsx","main.jsx",0,229,"229 B",1763788690,"11/22/25, 10:18:10 AM");</script>
